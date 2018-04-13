@@ -1,5 +1,4 @@
 # Deep-Purple-Site
-*****************************************
 
 Assignment in HTML & CSS Course
 
