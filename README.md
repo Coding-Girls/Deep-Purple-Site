@@ -1,11 +1,11 @@
 # Deep-Purple-Site
 *****************************************
 
-This document describes the assignment in HTML & CSS Course
+Assignment in HTML & CSS Course
 
-# Project Description
+**Deep Purple Site** is a simple site for Deep Purple in Bulgarian using HTML and CSS. 
 
-Implement a two page site using HTML and CSS.
+**Originally developed by:**
+* Petya Kostova => [petyakostova](https://github.com/petyakostova)
 
-## Requirements
-    
+**The Site is licensed under MIT License**
